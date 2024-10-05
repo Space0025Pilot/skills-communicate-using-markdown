@@ -5,4 +5,9 @@
 
 ## New Book Projects
 
+### Code Example
+``` java
+string mystring = "Hello Everyone!";
+```
+
 ###### P.S Super Fan of Film and Tv!
