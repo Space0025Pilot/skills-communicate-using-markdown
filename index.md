@@ -5,6 +5,11 @@
 
 ## New Book Projects
 
+### Task List
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ### Code Example
 ``` java
 string mystring = "Hello Everyone!";
